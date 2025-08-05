@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedPresentationVideoMaker", "SpeedPresentationVideoMaker\SpeedPresentationVideoMaker.csproj", "{63E26258-9386-4178-9F20-865AF5515A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E26258-9386-4178-9F20-865AF5515A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E26258-9386-4178-9F20-865AF5515A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E26258-9386-4178-9F20-865AF5515A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E26258-9386-4178-9F20-865AF5515A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F106BAA5-423A-4DD4-8A2D-410103C3C8F7}
+	EndGlobalSection
+EndGlobal
